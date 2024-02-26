@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B720FD7B-A121-459E-B46A-53A516ABF6D3}|WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game.csproj|d:\\.leskiv_dmytro\\programming\\1.1_winforms_c#\\wf_c#_main_project_game\\wf_c#_main_project_game\\form_battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720FD7B-A121-459E-B46A-53A516ABF6D3}|WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game.csproj|solutionrelative:wf_c#_main_project_game\\form_battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720FD7B-A121-459E-B46A-53A516ABF6D3}|WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game.csproj|d:\\.leskiv_dmytro\\programming\\1.1_winforms_c#\\wf_c#_main_project_game\\wf_c#_main_project_game\\form_choose_arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720FD7B-A121-459E-B46A-53A516ABF6D3}|WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game.csproj|solutionrelative:wf_c#_main_project_game\\form_choose_arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720FD7B-A121-459E-B46A-53A516ABF6D3}|WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game.csproj|D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\wf_c#_main_project_game\\form_choose_arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B720FD7B-A121-459E-B46A-53A516ABF6D3}|WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game.csproj|solutionrelative:wf_c#_main_project_game\\form_choose_arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720FD7B-A121-459E-B46A-53A516ABF6D3}|WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game.csproj|D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\wf_c#_main_project_game\\form_choose_fighters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720FD7B-A121-459E-B46A-53A516ABF6D3}|WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game.csproj|solutionrelative:wf_c#_main_project_game\\form_choose_fighters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720FD7B-A121-459E-B46A-53A516ABF6D3}|WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game.csproj|D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\wf_c#_main_project_game\\form_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720FD7B-A121-459E-B46A-53A516ABF6D3}|WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game.csproj|solutionrelative:wf_c#_main_project_game\\form_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720FD7B-A121-459E-B46A-53A516ABF6D3}|WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game.csproj|D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\wf_c#_main_project_game\\form_win_end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720FD7B-A121-459E-B46A-53A516ABF6D3}|WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game.csproj|solutionrelative:wf_c#_main_project_game\\form_win_end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720FD7B-A121-459E-B46A-53A516ABF6D3}|WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game.csproj|D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\wf_c#_main_project_game\\form_win_end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B720FD7B-A121-459E-B46A-53A516ABF6D3}|WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game.csproj|solutionrelative:wf_c#_main_project_game\\form_win_end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720FD7B-A121-459E-B46A-53A516ABF6D3}|WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game.csproj|d:\\.leskiv_dmytro\\programming\\1.1_winforms_c#\\wf_c#_main_project_game\\wf_c#_main_project_game\\form_battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B720FD7B-A121-459E-B46A-53A516ABF6D3}|WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game.csproj|solutionrelative:wf_c#_main_project_game\\form_battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720FD7B-A121-459E-B46A-53A516ABF6D3}|WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game.csproj|D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\wf_c#_main_project_game\\form_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B720FD7B-A121-459E-B46A-53A516ABF6D3}|WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game.csproj|solutionrelative:wf_c#_main_project_game\\form_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720FD7B-A121-459E-B46A-53A516ABF6D3}|WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game.csproj|D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\wf_c#_main_project_game\\form_choose_fighters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B720FD7B-A121-459E-B46A-53A516ABF6D3}|WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game.csproj|solutionrelative:wf_c#_main_project_game\\form_choose_fighters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 249,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form_Start.cs [Design]",
+              "DocumentMoniker": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game\\Form_Start.cs",
+              "RelativeDocumentMoniker": "WF_C#_Main_Project_Game\\Form_Start.cs",
+              "ToolTip": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game\\Form_Start.cs [Design]",
+              "RelativeToolTip": "WF_C#_Main_Project_Game\\Form_Start.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T16:09:14.119Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form_Start.cs",
+              "DocumentMoniker": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game\\Form_Start.cs",
+              "RelativeDocumentMoniker": "WF_C#_Main_Project_Game\\Form_Start.cs",
+              "ToolTip": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game\\Form_Start.cs",
+              "RelativeToolTip": "WF_C#_Main_Project_Game\\Form_Start.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T16:09:37.507Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form_Win_End.cs [Design]",
+              "DocumentMoniker": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game\\Form_Win_End.cs",
+              "RelativeDocumentMoniker": "WF_C#_Main_Project_Game\\Form_Win_End.cs",
+              "ToolTip": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game\\Form_Win_End.cs [Design]",
+              "RelativeToolTip": "WF_C#_Main_Project_Game\\Form_Win_End.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T16:28:00.196Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form_Win_End.cs",
+              "DocumentMoniker": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game\\Form_Win_End.cs",
+              "RelativeDocumentMoniker": "WF_C#_Main_Project_Game\\Form_Win_End.cs",
+              "ToolTip": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game\\Form_Win_End.cs",
+              "RelativeToolTip": "WF_C#_Main_Project_Game\\Form_Win_End.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T16:33:00.544Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form_Choose_Fighters.cs [Design]",
+              "DocumentMoniker": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game\\Form_Choose_Fighters.cs",
+              "RelativeDocumentMoniker": "WF_C#_Main_Project_Game\\Form_Choose_Fighters.cs",
+              "ToolTip": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game\\Form_Choose_Fighters.cs [Design]",
+              "RelativeToolTip": "WF_C#_Main_Project_Game\\Form_Choose_Fighters.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T17:55:17.003Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form_Choose_Fighters.cs",
+              "DocumentMoniker": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game\\Form_Choose_Fighters.cs",
+              "RelativeDocumentMoniker": "WF_C#_Main_Project_Game\\Form_Choose_Fighters.cs",
+              "ToolTip": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game\\Form_Choose_Fighters.cs",
+              "RelativeToolTip": "WF_C#_Main_Project_Game\\Form_Choose_Fighters.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwGwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T18:02:52.872Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_Choose_Arena.cs [Design]",
+              "DocumentMoniker": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game\\Form_Choose_Arena.cs",
+              "RelativeDocumentMoniker": "WF_C#_Main_Project_Game\\Form_Choose_Arena.cs",
+              "ToolTip": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game\\Form_Choose_Arena.cs [Design]",
+              "RelativeToolTip": "WF_C#_Main_Project_Game\\Form_Choose_Arena.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T16:03:19.116Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_Choose_Arena.cs",
+              "DocumentMoniker": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game\\Form_Choose_Arena.cs",
+              "RelativeDocumentMoniker": "WF_C#_Main_Project_Game\\Form_Choose_Arena.cs",
+              "ToolTip": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game\\Form_Choose_Arena.cs",
+              "RelativeToolTip": "WF_C#_Main_Project_Game\\Form_Choose_Arena.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T16:44:47.603Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_Battle.cs",
+              "DocumentMoniker": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game\\Form_Battle.cs",
+              "RelativeDocumentMoniker": "WF_C#_Main_Project_Game\\Form_Battle.cs",
+              "ToolTip": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game\\Form_Battle.cs",
+              "RelativeToolTip": "WF_C#_Main_Project_Game\\Form_Battle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:29:41.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form_Battle.cs [Design]",
+              "DocumentMoniker": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game\\Form_Battle.cs",
+              "RelativeDocumentMoniker": "WF_C#_Main_Project_Game\\Form_Battle.cs",
+              "ToolTip": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\WF_C#_Main_Project_Game\\WF_C#_Main_Project_Game\\Form_Battle.cs [Design]",
+              "RelativeToolTip": "WF_C#_Main_Project_Game\\Form_Battle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:28:25.422Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
